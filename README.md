@@ -6,7 +6,7 @@
 - Currently I don't know many technologies, but I learn every day and I plan to continue doing so.😉
 - That's all! 
 - 📫 How to reach me:
-  - Email: gonzalo90fa@gmail.com
+  - Email: gonzaloaguerodev@gmail.com
   - Instagram: @gonzalo_90fa
   - WhatsApp: +54 9 343 425-8605
 <!---
