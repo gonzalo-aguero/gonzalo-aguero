@@ -1,5 +1,5 @@
 # Gonzalo Agüero
-- 👋 Hi, I’m @gonzalo90fa. My real name's Gonzalo Agüero and I'm from Argentina 🇦🇷
+- 👋 Hi, I’m Gonzalo Agüero and I'm from Argentina 🇦🇷
 - 👀 I’m interested in Web development and App development.
 - I can program in JavaScript, PHP and intermediate Java. Also I can use basic SQL instructions.🤓
 - Talking about libraries, I can develop with, React.js and React Native.😄
