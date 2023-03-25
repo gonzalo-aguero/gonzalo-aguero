@@ -2,9 +2,8 @@
 Hello, I'm Gonzalo Agüero and I'm from Argentina.
 I'm interested in Web and App development.
 I can program in JavaScript, PHP, Java, Python and C++.
-Talking about libraries I can develop with React.js and React Native.
 
-About others technologies:
+About technologies:
   - [Laravel 10](https://laravel.com/)
   - [TailwindCSS](https://tailwindcss.com/)
   - [AlpineJS](https://alpinejs.dev/)
