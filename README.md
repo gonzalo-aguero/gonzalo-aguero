@@ -1,6 +1,6 @@
 # Gonzalo Agüero
 Hello, I'm Gonzalo Agüero and I'm from Argentina.
-I'm interested in Web and App development.
+I'm a FullStack developer. I can program for the Backend as well as for the Frontend, but I prefer the Backend ;)
 I can program in JavaScript, PHP, Java, Python and C++.
 
 About technologies:
@@ -16,8 +16,6 @@ About technologies:
   - [ReactJS](https://react.dev/)
   - [React Native (Expo)](https://expo.dev/)
   - [Wordpress](https://wordpress.org/)
-
-Currently I don't know many technologies, but I learn every day and I plan to continue doing so.
 
 How to reach me:
   - Email: gonzaloaguerodev@gmail.com
