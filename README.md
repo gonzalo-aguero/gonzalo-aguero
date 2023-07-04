@@ -19,7 +19,6 @@ About technologies:
 
 How to reach me:
   - Email: gonzaloaguerodev@gmail.com
-  - WhatsApp: +5493434258605
 <!---
 gonzalo90fa/gonzalo90fa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
