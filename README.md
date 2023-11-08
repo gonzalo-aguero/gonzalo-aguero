@@ -1,7 +1,7 @@
 # Gonzalo Agüero
 Hello, I'm Gonzalo Agüero and I'm from Argentina.
 I'm a FullStack developer. I can program for the Backend and for the Frontend, but I prefer the Backend ;)
-I can program in JavaScript, PHP, Java, Python and C++.
+I can program in JavaScript, PHP, Java and C++.
 
 About technologies:
   - [Laravel 10](https://laravel.com/)
